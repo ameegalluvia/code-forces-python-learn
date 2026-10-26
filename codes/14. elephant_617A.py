@@ -11,5 +11,8 @@ for i in reversed(range(1, 5)):
     sisa = sisa % i
     total += langkah
 
-
 print(total)
+
+# cara ai
+# x = int(input())
+# print((x + 4) // 5)
